@@ -1,12 +1,15 @@
 # Mission_to_Mars
-##  Data Analysis of findings from scraping
+## Analysis of data extraction from web scraping
 
 ###  How many months exist on Mars?
+####  12
 
 ###  How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+####  1867
 
-###  What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
+###  What are the coldest and the warmest months on Mars (at the location of Curiosity)? 
 Find the average the minimum daily temperature for all of the months.
+####  
 Plot the results as a bar chart.
 
 ###  Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
