@@ -12,6 +12,7 @@ Find the average the minimum daily temperature for all of the months.
 ####  
 Plot the results as a bar chart.
 
+
 ###  Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
 Find the average the daily atmospheric pressure of all the months.
 Plot the results as a bar chart.
