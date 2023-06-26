@@ -26,17 +26,14 @@ month
 12   -74.451807
 Name: min_temp, dtype: float64
 
-Find the average the minimum daily temperature for all of the months.
-####  
-Plot the results as a bar chart.
-
 
 ###  Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
 ####  Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
 
-![image]([https://github.com/jhansolo33/Mission_to_Mars/assets/119264589/61dfd08e-9547-4a9d-aa47-56159cc8c610])
+![mars1](https://github.com/jhansolo33/Mission_to_Mars/assets/119264589/af9c6ca0-df5d-4785-a8ce-fc30aa799c6b)
 
 
 ###  About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 #### A year on Mars appears to be about 675 days according to the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
+
 
