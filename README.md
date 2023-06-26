@@ -1,5 +1,6 @@
-# Mission_to_Mars
-## Analysis of data extraction from web scraping
+# Mission to Mars
+
+## Analysis of data extraction from web scraping:
 
 ###  How many months exist on Mars?
 ####  12
