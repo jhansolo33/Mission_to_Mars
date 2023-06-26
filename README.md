@@ -21,5 +21,5 @@ Plot the results as a bar chart.
 
 
 ###  About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
-####  687
+#### A year on Mars appears to be about 675 days according to the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
 
