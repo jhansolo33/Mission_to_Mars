@@ -15,8 +15,8 @@ Plot the results as a bar chart.
 
 
 ###  Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
-Find the average the daily atmospheric pressure of all the months.
-Plot the results as a bar chart.
+####  Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
+
 ![image]([https://github.com/jhansolo33/Mission_to_Mars/assets/119264589/61dfd08e-9547-4a9d-aa47-56159cc8c610])
 
 
