@@ -9,6 +9,9 @@
 ####  1867
 
 ###  What are the coldest and the warmest months on Mars (at the location of Curiosity)? 
+
+####  On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest. But it is always very cold there in human terms.
+
 Find the average the minimum daily temperature for all of the months.
 ####  
 Plot the results as a bar chart.
